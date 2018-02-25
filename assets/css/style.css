@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.my-name {
+    font-size: 28px;
+}
+
+.nav-link, .active {
+    color: white;
+}
+
+.main-section {
+    background-image: url(../images/spiration-light.png);
+}
+
+.row-1-left {
+    border-bottom: 2px solid gray;
+    background-color: white;
+    margin-top: 30px;
+    /* margin-right: 20px; */
+    color: #4aaaa5;
+}
+
+.row-1-left-pf-ct {
+    border-bottom: 2px solid gray;
+    background-color: white;
+    margin-top: 30px;
+    /* margin-right: 20px; */
+    color: #4aaaa5;
+}
+
+.row-1-right {
+    background-color: white;
+    border-bottom: 2px solid gray;
+    margin-top: 30px;
+    color: #4aaaa5;
+}
+
+.row-1-right-pf-ct {
+    border-bottom: 2px solid gray;
+    background-color: white;
+    margin-top: 30px;
+    color: #4aaaa5;
+}
+
+.row-2-left {
+    padding-top: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.row-2-left-pf-ct {
+    padding-top: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+    /* margin-right: 20px; */
+}
+
+.row-2-center {
+    padding-top: 10px;
+    background-color: white;
+    /* margin-right: 20px; */
+    margin-bottom: 30px;
+}
+
+.row-2-right {
+    display: flex;
+    padding-top: 10px;
+    background-color: white;
+    height: 180px;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+.portfolio-items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.card-body {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.fa-github-square {
+    color: black;
+}
+
+.fa-linkedin {
+    color: #1178b3;
+}
+
+.fa-stack-overflow {
+    color: orange;
+}
+
+.btn-info {
+    background-color: #4aaaa5;
+}
+
+.footer {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: #666666;
+    color: lightgrey;
+    text-align: center;
+}
